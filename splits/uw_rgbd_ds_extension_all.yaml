@@ -1,0 +1,128 @@
+%YAML:1.0
+classes: [apple, ball, banana, bell_pepper, binder, bowl, calculator, camera, cap, cell_phone, cereal_box, coffee_mug, comb, dry_battery, flashlight, food_bag, food_box, food_can, food_cup, food_jar, garlic, glue_stick, greens, hand_towel, instant_noodles, keyboard, kleenex, lemon, lightbulb, lime, marker, mushroom, notebook, onion, orange, peach, pear, pitcher, plate, pliers, potato, rubber_eraser, scissors, soda_can, shampoo, sponge, stapler, tomato, toothbrush, toothpaste, water_bottle]
+
+apple:
+	- 155_green_plastic_apple_lr
+ball:
+	- 156_champion_sports_official_softball_lr
+banana:
+	- 157_banana_plastic_lr
+bell_pepper:
+	- 158_bell_pepper_red_lr
+binder:
+	- 159_binder_ur_white_lr
+bowl:
+	- 153_white_ceramic_bowl
+	- 105_blue_plastic_bowl
+	- 140_red_metal_bowl_white_speckles
+	- 102_black_ceramic_bowl
+calculator:
+	- 195_scientific_calculator_ti_lr
+camera:
+	- 162_camera_canon_lr
+cap:
+	- 164_cap_black_agki_lr
+cell_phone:
+	- 167_cell_phone_lr
+cereal_box:
+	- 118_kelloggs_corn_flakes
+	- 119_kelloggs_toppas_mini
+	- 123_knusper_schoko_keks
+	- 126_lion_cereal_box
+	- 130_nesquik_cereal
+coffee_mug:
+	- 174_kuka_mug_lr
+	- 103_blue_camping_cup
+	- 104_blue_ceramic_ikea_mug
+	- 109_cup_eco_orange
+	- 125_linux_cup
+	- 141_red_metal_cup_white_speckles
+comb:
+	- 172_hair_brush_lr
+dry_battery:
+	- 168_dry_battery_lr
+flashlight:
+	- 190_pocket_flashlight_lr
+food_bag:
+	- 169_finello_grated_cheese_bag_lr
+food_box:
+	- 166_cheeze_it_lr
+	- 108_coffee_el_bryg
+	- 147_spitzen_reis
+	- 149_tomato_al_gusto_basilikum
+food_can:
+	- 163_campbells_condensed_tomato_soup_lr
+	- 150_tomato_sauce_oro_di_parma
+	- 107_cappuccino
+food_cup:
+	- 192_rewe_creme_fraiche_cup_lr
+food_jar:
+	- 180_marmalade_jar_lr
+garlic:
+	- 170_garlic_lr
+glue_stick:
+	- 171_glue_stick_test_lr
+greens:
+	- 194_salad_lr
+hand_towel:
+	- 160_blue_hand_towel_lr
+instant_noodles:
+	- 173_instant_noodles_huhn_lr
+keyboard:
+	- 179_logitech_keyboard_lr
+kleenex:
+	- 173_kleenex_lr
+lemon:
+	- 176_lemon_plastic_lr
+lightbulb:
+	- 177_lightbulb_lr
+lime:
+	- 178_lime_lr
+marker:
+	- 187_permanent_marker_lr
+mushroom:
+	- 181_mushroom_lr
+notebook:
+	- 175_landre_spiral_notebook_lr
+onion:
+	- 182_onion_lr
+orange:
+	- 183_orange_plastic_lr
+peach:
+	- 185_peach_plastic_lr
+pear:
+	- 186_pear_plastic_lr
+pitcher:
+	- 188_pitcher_blue_lr
+	-	134_pitcher_white
+	-	135_pitcher_yellow
+plate:
+	- 142_red_metal_plate_white_speckles
+	-	106_blue_metal_plate_white_speckles
+	-	154_yellow_ceramic_plate
+pliers:
+	- 189_pliers_red_lr
+potato:
+	- 191_potato_lr
+rubber_eraser:
+	- 193_rubber_eraser_lr
+scissors:
+	- 202_wescott_orange_grey_scissors_lr
+soda_can:
+	- 184_pepsi_soda_can_lr
+shampoo:
+	- 196_shampoo_nivea_lr
+sponge:
+	- 197_sponge_with_textured_cover_lr
+stapler:
+	- 198_stapler_black_lr
+tomato:
+	- 199_tomato_lr
+toothbrush:
+	- 200_toothbrush_red_lr
+toothpaste:
+	- 201_toothpaste_blue_aldi_lr
+water_bottle:
+	- 161_bonaqua_bottle_lr
+	-	144_sigg_bottle
+	-	152_white_bottle

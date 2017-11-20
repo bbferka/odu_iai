@@ -128,7 +128,7 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="koelln_muesli_knusper_honig_nuss_png-sampler"/>
+              <texture texture="koelln_muesli_knusper_honig_nuss_png-sampler" texcoord= ""/>
             </diffuse>
             <specular>
               <color sid="specular">0.5 0.5 0.5 1</color>

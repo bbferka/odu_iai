@@ -11,21 +11,21 @@
     <up_axis>Z_UP</up_axis>
   </asset>
   <library_images>
-    <image id="BlueSpottedPlate_png" name="BlueSpottedPlate_png">
-      <init_from>BlueSpottedPlate.png</init_from>
+    <image id="BlueMetalPlateWhiteSpeckles_png" name="BlueMetalPlateWhiteSpeckles_png">
+      <init_from>BlueMetalPlateWhiteSpeckles.png</init_from>
     </image>
   </library_images>
   <library_effects>
     <effect id="Texture-effect">
       <profile_COMMON>
-        <newparam sid="BlueSpottedPlate_png-surface">
+        <newparam sid="BlueMetalPlateWhiteSpeckles_png-surface">
           <surface type="2D">
-            <init_from>BlueSpottedPlate_png</init_from>
+            <init_from>BlueMetalPlateWhiteSpeckles_png</init_from>
           </surface>
         </newparam>
-        <newparam sid="BlueSpottedPlate_png-sampler">
+        <newparam sid="BlueMetalPlateWhiteSpeckles_png-sampler">
           <sampler2D>
-            <source>BlueSpottedPlate_png-surface</source>
+            <source>BlueMetalPlateWhiteSpeckles_png-surface</source>
           </sampler2D>
         </newparam>
         <technique sid="common">
@@ -37,7 +37,7 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="BlueSpottedPlate_png-sampler" texcoord="Scan-mesh-map-0"/>
+              <texture texture="BlueMetalPlateWhiteSpeckles_png-sampler" texcoord="Scan-mesh-map-0"/>
             </diffuse>
             <specular>
               <color sid="specular">0.45 0.45 0.45 1</color>

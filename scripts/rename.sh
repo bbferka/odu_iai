@@ -1,4 +1,7 @@
 #/bin/bash
+# batch rename files in folders by replacing user given string with folder name
+# Usage: copy script into folder wher you want to run it 
+
 
 for d in */ ; do
     echo "$d"

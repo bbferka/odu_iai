@@ -11,21 +11,21 @@
     <up_axis>Z_UP</up_axis>
   </asset>
   <library_images>
-    <image id="EcoOrangeCup_png" name="EcoOrangeCup_png">
-      <init_from>EcoOrangeCup.png</init_from>
+    <image id="CupEcoOrange_png" name="CupEcoOrange_png">
+      <init_from>CupEcoOrange.png</init_from>
     </image>
   </library_images>
   <library_effects>
     <effect id="Texture_003-effect">
       <profile_COMMON>
-        <newparam sid="EcoOrangeCup_png-surface">
+        <newparam sid="CupEcoOrange_png-surface">
           <surface type="2D">
-            <init_from>EcoOrangeCup_png</init_from>
+            <init_from>CupEcoOrange_png</init_from>
           </surface>
         </newparam>
-        <newparam sid="EcoOrangeCup_png-sampler">
+        <newparam sid="CupEcoOrange_png-sampler">
           <sampler2D>
-            <source>EcoOrangeCup_png-surface</source>
+            <source>CupEcoOrange_png-surface</source>
           </sampler2D>
         </newparam>
         <technique sid="common">
@@ -37,7 +37,7 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="EcoOrangeCup_png-sampler" texcoord="Scan_003-mesh-map-0"/>
+              <texture texture="CupEcoOrange_png-sampler" texcoord="Scan_003-mesh-map-0"/>
             </diffuse>
             <specular>
               <color sid="specular">0.45 0.45 0.45 1</color>

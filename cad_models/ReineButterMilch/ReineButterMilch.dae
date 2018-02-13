@@ -11,21 +11,21 @@
     <up_axis>Z_UP</up_axis>
   </asset>
   <library_images>
-    <image id="ReineButerMilch_png" name="ReineButerMilch_png">
-      <init_from>ReineButerMilch.png</init_from>
+    <image id="ReineButterMilch_png" name="ReineButterMilch_png">
+      <init_from>ReineButterMilch.png</init_from>
     </image>
   </library_images>
   <library_effects>
     <effect id="Texture_003-effect">
       <profile_COMMON>
-        <newparam sid="ReineButerMilch_png-surface">
+        <newparam sid="ReineButterMilch_png-surface">
           <surface type="2D">
-            <init_from>ReineButerMilch_png</init_from>
+            <init_from>ReineButterMilch_png</init_from>
           </surface>
         </newparam>
-        <newparam sid="ReineButerMilch_png-sampler">
+        <newparam sid="ReineButterMilch_png-sampler">
           <sampler2D>
-            <source>ReineButerMilch_png-surface</source>
+            <source>ReineButterMilch_png-surface</source>
           </sampler2D>
         </newparam>
         <technique sid="common">
@@ -37,7 +37,7 @@
               <color sid="ambient">0 0 0 1</color>
             </ambient>
             <diffuse>
-              <texture texture="ReineButerMilch_png-sampler"/>
+              <texture texture="ReineButterMilch_png-sampler"/>
             </diffuse>
             <specular>
               <color sid="specular">0.3994845 0.3994845 0.3994845 1</color>

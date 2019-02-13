@@ -13,7 +13,6 @@ classes:
  - cereal_box
  - coffee_mug
  - comb
- - dry_batter
  - flashlight
  - food_bag
  - food_box
@@ -53,104 +52,103 @@ classes:
  - water_bottle
 
 apple:
-	- green_plastic_apple_lr
+        - green_plastic_apple_lr
 ball:
-	- champion_sports_official_softball_lr
+        - champion_sports_official_softball_lr
 banana:
-	- banana_plastic_lr
+        - banana_plastic_lr
 bell_pepper:
-	- bell_pepper_red_lr
+        - bell_pepper_red_lr
 binder:
-	- binder_ur_white_lr
+        - binder_ur_white_lr
 bowl:
-	- WhiteCeramicIkeaBowl
+        - WhiteCeramicIkeaBowl
 calculator:
-	- scientific_calculator_ti_lr
+        - scientific_calculator_ti_lr
 camera:
-	- camera_canon_lr
+        - camera_canon_lr
 cap:
-	- cap_black_agki_lr
+        - cap_black_agki_lr
 cell_phone:
-	- cell_phone_lr
+        - cell_phone_lr
 cereal_box:
-	- KelloggsCornFlakes
+        - KelloggsCornFlakes
 coffee_mug:
-	- kuka_mug_lr
+        - kuka_mug_lr
 comb:
-	- hair_brush_lr
-dry_battery:
-	- dry_battery_lr
+        - hair_brush_lr
+
 flashlight:
-	- pocket_flashlight_lr
+        - pocket_flashlight_lr
 food_bag:
-	- finello_grated_cheese_bag_lr
+        - finello_grated_cheese_bag_lr
 food_box:
-	- cheeze_it_lr
+        - cheeze_it_lr
 food_can:
-	- campbells_condensed_tomato_soup_lr
+        - campbells_condensed_tomato_soup_lr
 food_cup:
-	- rewe_creme_fraiche_cup_lr
+        - rewe_creme_fraiche_cup_lr
 food_jar:
-	- marmalade_jar_lr
+        - marmalade_jar_lr
 garlic:
-	- garlic_lr
+        - garlic_lr
 glue_stick:
-	- glue_stick_test_lr
+        - glue_stick_test_lr
 greens:
-	- salad_lr
+        - salad_lr
 hand_towel:
-	- blue_hand_towel_lr
+        - blue_hand_towel_lr
 instant_noodles:
-	- instant_noodles_huhn_lr
+        - instant_noodles_huhn_lr
 keyboard:
-	- logitech_keyboard_lr
+        - logitech_keyboard_lr
 kleenex:
-	- kleenex_lr
+        - kleenex_lr
 lemon:
-	- lemon_plastic_lr
+        - lemon_plastic_lr
 lightbulb:
-	- lightbulb_lr
+        - lightbulb_lr
 lime:
-	- lime_lr
+        - lime_lr
 marker:
-	- permanent_marker_lr
+        - permanent_marker_lr
 mushroom:
-	- mushroom_lr
+        - mushroom_lr
 notebook:
-	- landre_spiral_notebook_lr
+        - landre_spiral_notebook_lr
 onion:
-	- onion_lr
+        - onion_lr
 orange:
-	- orange_plastic_lr
+        - orange_plastic_lr
 peach:
-	- peach_plastic_lr
+        - peach_plastic_lr
 pear:
-	- pear_plastic_lr
+        - pear_plastic_lr
 pitcher:
-	- pitcher_blue_lr
+        - pitcher_blue_lr
 plate:
-	- RedMetalPlateWhiteSpeckles
+        - RedMetalPlateWhiteSpeckles
 pliers:
-	- pliers_red_lr
+        - pliers_red_lr
 potato:
-	- potato_lr
+        - potato_lr
 rubber_eraser:
-	- rubber_eraser_lr
+        - rubber_eraser_lr
 scissors:
-	- wescott_orange_grey_scissors_lr
+        - wescott_orange_grey_scissors_lr
 soda_can:
-	- pepsi_soda_can_lr
+        - pepsi_soda_can_lr
 shampoo:
-	- shampoo_nivea_lr
+        - shampoo_nivea_lr
 sponge:
-	- sponge_with_textured_cover_lr
+        - sponge_with_textured_cover_lr
 stapler:
-	- stapler_black_lr
+        - stapler_black_lr
 tomato:
-	- tomato_lr
+        - tomato_lr
 toothbrush:
-	- toothbrush_red_lr
+        - toothbrush_red_lr
 toothpaste:
-	- toothpaste_blue_aldi_lr
+        - toothpaste_blue_aldi_lr
 water_bottle:
-	- bonaqua_bottle_lr
+        - bonaqua_bottle_lr
